@@ -529,12 +529,12 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 | Gemini Research  | 1M tokens      | Google Search + KG          |
 | Perplexity Pro   | Variable       | Real-time cited search      |
 
+- [CAJAL](https://github.com/Agnuxo1/CAJAL) - Local AI agent that generates publication-ready scientific papers with real arXiv citations, tribunal scoring, and 100% offline execution via Ollama (🏷️ `Python` `Ollama` `Local`).
 - [ChatGPT Deep Research](https://openai.com/index/introducing-deep-research) - Conducts extended reasoning with web browsing to produce structured research reports with Canvas output (🏷️ `Cloud` `OpenAI` `Web`).
 - [Claude Deep Research](https://www.anthropic.com/research) - Performs multi-step investigation with verified source citations and 200K token context window (🏷️ `Cloud` `Anthropic` `Web`).
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Multi-agent research system from ByteDance with planning and execution loops for autonomous investigation (🏷️ `Python` `Open-Source` `Research`).
 - [Gemini Deep Research](https://blog.google/products/gemini/google-gemini-deep-research) - Leverages Google Search and Knowledge Graph integration with 1M token context for breadth-first research (🏷️ `Cloud` `Google` `Web`).
 - [Perplexity Pro](https://www.perplexity.ai) - Provides real-time search answers with inline citations and follow-up threads for iterative research (🏷️ `Cloud` `Freemium` `Web`).
-- [CAJAL](https://github.com/Agnuxo1/CAJAL) - Local AI agent that generates publication-ready scientific papers with real arXiv citations, tribunal scoring, and 100% offline execution via Ollama (🏷️ `Python` `Ollama` `Local`).
 
 ## Prompt-to-App Builders
 
