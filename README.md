@@ -25,6 +25,10 @@
 
 ---
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026">upstream project</a>’s categories spanning coding, workflow automation, local runtimes, protocols and observability. Developers can compare complementary pieces of an agent stack and reuse existing components before undertaking custom development. The useful contribution is organised discovery and implementation planning; catalogue coverage is not a comparative benchmark of agent quality or computing efficiency.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 - [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
